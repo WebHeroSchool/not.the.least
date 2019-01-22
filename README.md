@@ -1,0 +1,1 @@
+Git coudn't read the command 'open' so I had to google how to open the file. It appears it reads the command 'start'. I used ConEmu in WindowsOS, by the way.
